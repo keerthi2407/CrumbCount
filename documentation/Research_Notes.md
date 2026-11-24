@@ -73,6 +73,58 @@ These assumptions will be evaluated during research.
 
 This document will be updated throughout the project as new information, findings and requirements are identified.
 
+## Research Topic 1: Recipe Costing & Pricing
+
+**Status:** Initial Research Completed
+
+### 1. Key Findings
+
+- Ingredient costs should be calculated based on the actual quantity used in a recipe.
+- Production costs include ingredients, packaging, labour, utilities, overheads and wastage.
+- Revenue and profit are different financial measures.
+- Selling prices should account for the complete production cost.
+- Changes in ingredient purchase prices can affect product profitability.
+
+### 2. Cost Components Identified
+
+| Component | Description |
+|---|---|
+| Ingredients | Flour, sugar, butter, chocolate, eggs, etc. |
+| Packaging | Cake boxes, boards, labels and ribbons |
+| Labour | Time spent preparing and decorating |
+| Utilities | Electricity, gas and water |
+| Overheads | Equipment maintenance and other shared expenses |
+| Wastage | Ingredients or products lost during production |
+
+### 3. Initial Analytical Questions
+
+1. Which cost component contributes the most to production costs?
+2. How do ingredient price changes affect product profitability?
+3. Are products priced using their complete production costs?
+
+### 4. Implications for CrumbCount
+
+The system should eventually record:
+
+- Ingredient purchase prices and quantities.
+- Recipe-level ingredient consumption.
+- Packaging expenses.
+- Labour and overhead costs.
+- Production wastage.
+- Product selling prices.
+
+### 5. Research Sources
+
+- Baker's Bridge – Cake Cost Calculation and Pricing.
+- MyPadosi – Homemade Food Pricing.
+- Nilu's Cakes & Bakes – Home Bakery Pricing Guide.
+
+### 6. Research Limitations
+
+The information gathered provides general costing guidance. Actual costs and pricing practices may vary between home bakeries and require validation using real business records.
+
+
+
 ---
 
 **CrumbCount — Every crumb counts. Every decision matters.**
