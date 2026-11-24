@@ -123,6 +123,68 @@ The system should eventually record:
 
 The information gathered provides general costing guidance. Actual costs and pricing practices may vary between home bakeries and require validation using real business records.
 
+## Research Topic 2: Ingredient Inventory Management
+
+**Status:** Initial Research Completed
+
+### 1. Key Findings
+
+- Ingredient purchase records should capture quantities, prices and procurement sources.
+- Inventory should be monitored to avoid shortages and unnecessary purchases.
+- FIFO (First In, First Out) and FEFO (First Expire, First Out) are important stock rotation concepts.
+- Appropriate storage conditions and expiry monitoring are important for food safety.
+- Raw ingredients and finished bakery products should be tracked separately.
+
+### 2. Inventory Information Identified
+
+| Information | Purpose |
+|---|---|
+| Ingredient name | Identify the material |
+| Supplier | Track procurement sources |
+| Purchase date | Record when stock was received |
+| Quantity purchased | Track incoming stock |
+| Purchase price | Calculate ingredient costs |
+| Quantity consumed | Monitor production usage |
+| Available quantity | Determine remaining stock |
+| Expiry date | Monitor expiry risks |
+| Batch/Lot ID | Identify individual stock batches |
+
+### 3. Initial Analytical Questions
+
+1. Which ingredients are consumed most frequently?
+2. Which ingredients need restocking?
+3. How much inventory remains unused?
+4. Which ingredients are at risk of expiring?
+5. How much financial value is lost through expired or wasted ingredients?
+6. Does purchasing in larger quantities reduce costs or increase wastage?
+
+### 4. Implications for CrumbCount
+
+The inventory module should eventually support:
+
+- Ingredient purchase tracking.
+- Stock balance calculations.
+- Ingredient consumption records.
+- Batch and expiry tracking.
+- FIFO and FEFO stock rotation.
+- Reorder-level monitoring.
+- Ingredient wastage analysis.
+- Separate tracking of raw ingredients and finished products.
+
+### 5. Research Sources
+
+- FSSAI – Food Safety and Management System Guidelines.
+- FSSAI – Bakery Level 1 Training Material.
+- FSSAI – Food Safety and Standards operational guidance.
+
+### 6. Research Limitations
+
+The research provides general food-storage and inventory-management guidance. Actual inventory practices may vary according to the bakery's size, ingredients, storage facilities and operating model.
+
+Specific storage conditions and shelf lives must be determined using appropriate food-safety guidance rather than assumed by the analytical system.
+
+
+
 
 
 ---
