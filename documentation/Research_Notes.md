@@ -183,6 +183,79 @@ The research provides general food-storage and inventory-management guidance. Ac
 
 Specific storage conditions and shelf lives must be determined using appropriate food-safety guidance rather than assumed by the analytical system.
 
+## Research Topic 3: Order & Sales Management
+
+### 1. Research Objective
+To understand how small home bakeries manage customer orders, record sales, track payments and identify product demand.
+
+### 2. Types of Bakery Sales
+
+**A. Made-to-Order Sales**
+- Products are prepared after receiving confirmed customer orders.
+- Examples: customised cakes, birthday cakes and personalised desserts.
+- Orders require customer details, product specifications, quantity, agreed price, due date and payment status.
+
+**B. Advance-Batch Sales**
+- Products are prepared before receiving individual customer orders.
+- Examples: brownies, cupcakes and cookies sold through Instagram, WhatsApp or stalls.
+- Sales records should track quantities produced, quantities sold and remaining finished products.
+
+### 3. Important Information to Record
+- Order ID
+- Order date
+- Customer details
+- Product name
+- Quantity
+- Selling price
+- Total order value
+- Advance payment and balance due
+- Order status
+- Fulfilment date
+- Sales channel
+
+### 4. Key Findings
+- Customer enquiries should be distinguished from confirmed orders.
+- Sales revenue and actual profit are different measurements.
+- Order status and payment status should be tracked separately.
+- Different sales channels may generate different levels of revenue.
+- Made-to-order and advance-batch sales require different tracking approaches.
+
+### 5. Initial Analytical Questions
+1. Which products generate the highest revenue?
+2. Which products sell the highest number of units?
+3. Which days or periods have the highest sales?
+4. What is the average order value?
+5. How many orders are cancelled?
+6. How much payment is outstanding?
+7. Which sales channel generates the highest revenue?
+
+### 6. Initial Business Hypotheses
+
+**Hypothesis 1 — Product Bundling**
+
+Offering a discounted combination of a high-revenue product and a complementary product may encourage customers to purchase additional items.
+
+Example: Offering cookies at a discounted price when customers purchase a chocolate cake.
+
+This should be tested against product costs and profit margins before implementation.
+
+**Hypothesis 2 — Production Planning**
+
+Products with consistently high sales quantities may deserve higher production priority, provided that demand, ingredient availability and wastage are considered.
+
+### 7. Requirements Identified
+CrumbCount should support:
+- Order recording and status tracking.
+- Sales transaction recording.
+- Payment and outstanding balance tracking.
+- Product-wise sales analysis.
+- Sales channel analysis.
+- Comparison of revenue and profitability.
+- Separate tracking for made-to-order and advance-batch sales.
+
+### 8. Limitations
+Initial observations and hypotheses require validation using actual bakery sales data. High sales quantity does not automatically indicate high profitability or prove that a product's price caused greater demand.
+
 
 
 
