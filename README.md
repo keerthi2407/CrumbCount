@@ -57,7 +57,7 @@ CrumbCount/
 
 ## 📌 Project Status
 
-**Currently:** Project Planning & Research
+**Currently:** Excel Analysis Completed
 
 The project is being developed incrementally, beginning with business understanding and requirement analysis before moving into data preparation, database development and analytics.
 
